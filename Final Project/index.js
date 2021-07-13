@@ -127,7 +127,7 @@ function openCard(index){
         }
         else{
 
-            alert("game over");
+            alert("SORRY!! Game Over , Try Again -> You can do it :) " );
             location.reload();
 
         }

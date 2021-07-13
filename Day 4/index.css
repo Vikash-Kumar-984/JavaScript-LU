@@ -1,0 +1,11 @@
+  
+.output {
+    text-align: center;
+    font-weight: bold;
+}
+
+#msg {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
